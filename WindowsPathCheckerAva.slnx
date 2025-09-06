@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WindowsPathCheckerAva/WindowsPathCheckerAva.csproj" />
+  <Project Path="WindowsPathChecker/WindowsPathChecker.csproj" />
+</Solution>
